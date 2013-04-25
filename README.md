@@ -1,4 +1,3 @@
-space-game
-==========
+# Space Game
 
-It's a game involving space.
+Nothing to see here...
